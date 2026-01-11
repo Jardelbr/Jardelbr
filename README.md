@@ -10,7 +10,7 @@ Software Engineering student, determined to make his mark on the world. Ready to
 
 ### GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jardeldev&bg_color=000&border_color=7fffd4&title_color=FFF&text_color=FFF)
+![Top Langs](https://github-readme-stats-jade-tau-98.vercel.app/api/top-langs/?username=Jardeldev&bg_color=000&border_color=7fffd4&title_color=FFF&text_color=FFF)
 
 ### Connect with me
 
