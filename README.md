@@ -1,7 +1,7 @@
- ![Hello! I'm Jardel.](./images/Jardeldev-github-header.png)
+ ![Hello! I'm Jardel.](./images/Jardelbr-github-header.png)
  
 <h1>
-     <img align="center" alt="Jardeldev" width="36px" src="./images/Jardeldev-github-tag.png">
+     <img align="center" alt="Jardelbr" width="36px" src="./images/Jardelbr-github-tag.png">
     <span>About me</span>
 </h1>
 
@@ -10,9 +10,9 @@ Software Engineering student, determined to make his mark on the world. Ready to
 
 ### GitHub Stats
 <p align="left">
-  <img height="180" src="https://github-readme-stats-jade-tau-98.vercel.app/api?username=Jardeldev&show_icons=true&bg_color=000&border_color=7fffd4&title_color=FFF&text_color=FFF&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats-jade-tau-98.vercel.app/api?username=Jardelbr&show_icons=true&bg_color=000&border_color=7fffd4&title_color=FFF&text_color=FFF&include_all_commits=true" />
   
-  <img height="180" src="https://github-readme-stats-jade-tau-98.vercel.app/api/top-langs/?username=Jardeldev&layout=compact&bg_color=000&border_color=7fffd4&title_color=FFF&text_color=FFF" />
+  <img height="180" src="https://github-readme-stats-jade-tau-98.vercel.app/api/top-langs/?username=Jardelbr&layout=compact&bg_color=000&border_color=7fffd4&title_color=FFF&text_color=FFF" />
 </p>
 
 ### Connect with me
